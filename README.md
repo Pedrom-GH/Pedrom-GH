@@ -1,4 +1,4 @@
-# Practicas del grado de Ingeniería en Teleco en la UPC:
+# Practicas del grado de Ingeniería en Teleco UPC:
 
 ## 📁 Asignaturas:
 
