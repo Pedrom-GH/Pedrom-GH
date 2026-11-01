@@ -1,4 +1,4 @@
-# Practicas del grado de Ingeniería en Teleco UPC:
+# Telecom Bcd and personal engineering projects:
 
 ## 📁 Asignaturas:
 
